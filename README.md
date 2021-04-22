@@ -26,7 +26,9 @@ There is also some User Account information which contains information about the
 We have abstracted most of the common elements such descriptions, artwork and genres into a new MetaData table system.
 
 ## Screenshots
-![Example screenshot](./img/erd.png)
+![ERD](./assignment_webapp/erd.png)
+
+Credit: Baocheng Wang
 
 ## Technologies
 * Tech 1 - Python3
